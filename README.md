@@ -1,0 +1,2 @@
+# YouTube-Twitter-Extraction
+The spread of mis- and disinformation through social media poses significant risks to public safety and democracy. Understanding how these campaigns are initiated and spread is critical to stemming their negative effects. Twitter has created an API, an application programming interface, that allows users to pull tweets and other data from Twitter’s servers for research. There is also an API for pulling YouTube comments.
